@@ -16,3 +16,7 @@ echo "Subtraction from $b to $a is: $sub "
 multiply=$((a*b))
 echo "Multiplication of $a & $b is : $multiply "
 
+# Division functionality
+division=$((b/a))
+echo "Division of $b by $a is : $division "
+
