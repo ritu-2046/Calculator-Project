@@ -12,4 +12,7 @@ echo "Addition of two numbers $a  & $b is:  $addition "
 sub=$((b-a))
 echo "Subtraction from $b to $a is: $sub "
 
+# Multiplication functionality
+multiply=$((a*b))
+echo "Multiplication of $a & $b is : $multiply "
 
