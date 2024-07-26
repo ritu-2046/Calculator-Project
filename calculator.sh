@@ -26,3 +26,12 @@ echo "Division of $b by $a is : $division "
 rem=$((b%a))
 echo "Remainder of $b division by $a is : $rem "
 
+#Even odd number functionality
+if [[ $((a%2))==0 ]]
+then
+	echo "The remainder is $((a%2)) and Given number $a is even"
+else
+	echo "The remainder is $((a%2)) and Given number $a is odd"
+fi
+
+
