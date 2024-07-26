@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# This is a test change
+
 # Addition functionality
 
 a=20
