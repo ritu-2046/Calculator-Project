@@ -20,3 +20,7 @@ echo "Multiplication of $a & $b is : $multiply "
 division=$((b/a))
 echo "Division of $b by $a is : $division "
 
+# Remainder functionality
+rem=$((b%a))
+echo "Remainder of $b division by $a is : $rem "
+
